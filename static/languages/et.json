@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "ELi kodanikud, kes kasutavad sotsiaalvõrgustikke",
+  "subtitle": "2024. aastal oli sotsiaalvõrgustike jaoks internetti kasutanud inimeste osakaal 64,82%.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Nende andmete abil visualiseeritakse järgmisi juhtumeid: osalemine sotsiaalvõrgustikes (kasutajaprofiili loomine, sõnumite postitamine või muu panustamine Facebooki, Twitterisse jne). Prantsusmaa kohta andmed puuduvad.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "üksikisikute",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
