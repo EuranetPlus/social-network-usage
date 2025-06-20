@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "EU-individer som använder sociala nätverk",
+  "subtitle": "År 2024 var andelen individer som använde internet för sociala nätverk 64,82 %",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Följande fall visualiseras med denna data: deltagande i sociala nätverk (skapa användarprofil, posta meddelanden eller andra bidrag till Facebook, Twitter, etc.). Inga data tillgängliga för Frankrike.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "av individer",
   "tooltipExtraInfoLabel": "Klicka här"
 }
