@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "EU-Bürger, die soziale Netzwerke nutzen",
+  "subtitle": "Im Jahr 2024 beträgt der Anteil der Personen, die das Internet für soziale Netzwerke nutzen, 64,82 %",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Mit diesen Daten werden folgende Fälle visualisiert: Teilnahme an sozialen Netzwerken (Erstellen eines Benutzerprofils, Posten von Nachrichten oder anderen Beiträgen auf Facebook, Twitter usw.). Für Frankreich sind keine Daten verfügbar.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "von Einzelpersonen",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
