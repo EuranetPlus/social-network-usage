@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "ES iedzīvotāji, kas izmanto sociālos tīklus",
+  "subtitle": "2024. gadā to personu īpatsvars, kuras izmantoja internetu sociālajiem tīkliem, bija 64,82%",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Ar šiem datiem tiek vizualizēti šādi gadījumi: dalība sociālajos tīklos (lietotāja profila izveide, ziņojumu publicēšana vai cita veida iemaksas Facebook, Twitter utt.). Par Franciju dati nav pieejami.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "indivīdu",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
