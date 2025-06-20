@@ -1,13 +1,12 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "EU-s állampolgárok közösségi hálózatokat használnak",
+  "subtitle": "2024-ben a közösségi hálózatokra internetet használók aránya 64,82% volt.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "A következő eseteket vizualizáltuk ezekkel az adatokkal: közösségi hálózatokon való részvétel (felhasználói profil létrehozása, üzenetek vagy egyéb hozzájárulások közzététele a Facebookon, Twitteren stb.). Franciaországra vonatkozóan nem állnak rendelkezésre adatok.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
+  "customUnitLabel": "egyének",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
