@@ -1,13 +1,12 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Jednotlivci z EÚ používajúci sociálne siete",
+  "subtitle": "V roku 2024 bol podiel jednotlivcov, ktorí používali internet na sociálne siete, 64,82 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "S týmito údajmi sú vizualizované nasledujúce prípady: účasť na sociálnych sieťach (vytvorenie používateľského profilu, uverejňovanie správ alebo iných príspevkov na Facebooku, Twitteri atď.). Pre Francúzsko nie sú k dispozícii žiadne údaje.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
+  "customUnitLabel": "jednotlivcov",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
