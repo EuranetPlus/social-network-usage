@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Obywatele UE korzystający z sieci społecznościowych",
+  "subtitle": "W 2024 roku odsetek osób korzystających z Internetu w celach społecznościowych wyniósł 64,82%",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Następujące przypadki są wizualizowane przy użyciu tych danych: uczestnictwo w sieciach społecznościowych (tworzenie profilu użytkownika, publikowanie wiadomości lub innych wkładów na Facebooku, Twitterze itp.). Brak danych dla Francji.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "osób fizycznych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
