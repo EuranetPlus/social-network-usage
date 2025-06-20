@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Individwi tal-UE li jużaw in-netwerks soċjali",
+  "subtitle": "Fl-2024 is-sehem ta’ individwi li użaw l-internet għan-netwerks soċjali huwa ta’ 64.82%",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il-każijiet li ġejjin huma viżwalizzati b'din id-dejta: parteċipazzjoni f'netwerks soċjali (ħolqien ta' profil tal-utent, posting ta' messaġġi jew kontribuzzjonijiet oħra fuq facebook, twitter, eċċ.). M'hemm l-ebda dejta disponibbli għal Franza.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "ta' individwi",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
