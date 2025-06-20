@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Pojedinci iz EU-a koji koriste društvene mreže",
+  "subtitle": "U 2024. godini udio pojedinaca koji su koristili internet za društvene mreže iznosio je 64,82%.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Sljedeći slučajevi su vizualizirani s ovim podacima: sudjelovanje na društvenim mrežama (izrada korisničkog profila, objavljivanje poruka ili drugih doprinosa na Facebooku, Twitteru itd.). Nema dostupnih podataka za Francusku.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "pojedinaca",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
