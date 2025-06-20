@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Daoine aonair AE ag úsáid líonraí sóisialta",
+  "subtitle": "Sa bhliain 2024, ba é 64.82% an sciar de dhaoine aonair a d'úsáid an t-idirlíon le haghaidh líonraí sóisialta.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Déantar na cásanna seo a leanas a léirshamhlú leis na sonraí seo: rannpháirtíocht i líonraí sóisialta (próifíl úsáideora a chruthú, teachtaireachtaí a phostáil nó ranníocaíochtaí eile a chur ar Facebook, Twitter, srl.). Níl aon sonraí ar fáil don Fhrainc.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "daoine aonair",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
