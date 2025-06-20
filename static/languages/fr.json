@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Les particuliers de l'UE utilisant les réseaux sociaux",
+  "subtitle": "En 2024, la part des individus qui ont utilisé Internet pour les réseaux sociaux est de 64,82 %",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Les cas suivants sont visualisés avec ces données : participation aux réseaux sociaux (création de profil utilisateur, publication de messages ou autres contributions sur Facebook, Twitter, etc.). Aucune donnée disponible pour la France.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "des individus",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
